@@ -15,7 +15,11 @@ In this assignment we were asked to focused on accessibility by refactoring an e
 
 ## Page Provided
 
-<img src="./assets/images/SiteLayout.PNG"> 
+<img src="./assets/images/Page_Provided.png"> 
+
+## Completed Page
+
+<img src="./assets/images/Completed_Page.png">
 
 ## User Story Provided 
 
