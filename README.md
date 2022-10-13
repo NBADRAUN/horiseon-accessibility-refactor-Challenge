@@ -19,7 +19,7 @@ In this assignment we were asked to focused on accessibility by refactoring an e
 
 ## Completed Page
 
-<img src="./assets/images/Completed_Page.png">
+<img src="./assets/images/Completed_Page.png"> 
 
 ## User Story Provided 
 
