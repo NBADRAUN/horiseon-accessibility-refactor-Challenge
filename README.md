@@ -19,11 +19,8 @@ In this assignment we were asked to focused on accessibility by refactoring an e
 
 ## Completed Page
 
-<<<<<<< HEAD
-<img src="./assets/images/Completed_Page.png"> 
-=======
 <img src="./assets/images/Completed_Page.PNG">
->>>>>>> 2cb3c76a6a54d095dc5c4c87ebbcf90aeb9111b5
+
 
 ## User Story Provided 
 
