@@ -19,29 +19,29 @@ In this assignment we were asked to focused on accessibility by refactoring an e
 
 ## User Story Provided 
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+<Br>AS A marketing agency
+<Br>I WANT a codebase that follows accessibility standards
+<Br>SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria Provided 
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+<Br>GIVEN a webpage meets accessibility standards
+<Br>WHEN I view the source code
+<Br>THEN I find semantic HTML elements
+<Br>WHEN I view the structure of the HTML elements
+<Br>THEN I find that the elements follow a logical structure independent of styling and positioning
+<Br>WHEN I view the image elements
+<Br>THEN I find accessible alt attributes
+<Br>WHEN I view the heading attributes
+<Br>THEN they fall in sequential order
+<Br>WHEN I view the title element
+<Br>THEN I find a concise, descriptive title
 
 ## Actions Taken 
 
-Modified code in HTML and in CSS to resolve the acceptance criteria
-Updated source code in HTML to semantic elements
-Ensured the elements followed a logical structure independant of styling and positioning
-Added alt attributes to image elements
-adjusted heading elements to fall in the correct order
-Added a concise, descriptive title
+<Br>Modified code in HTML and in CSS to resolve the acceptance criteria
+<Br>Updated source code in HTML to semantic elements
+<Br>Ensured the elements followed a logical structure independant of styling and positioning
+<Br>Added alt attributes to image elements
+<Br>adjusted heading elements to fall in the correct order
+<Br>Added a concise, descriptive title
