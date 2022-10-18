@@ -50,3 +50,18 @@ In this assignment we were asked to focused on accessibility by refactoring an e
 <Br>Added alt attributes to image elements
 <Br>adjusted heading elements to fall in the correct order
 <Br>Added a concise, descriptive title
+
+## Feedback on items missed from first submission
+<Br>1. The Search Engine Optimization navigation item doesn't link to the corresponding section on the page. This is because you are missing an ID on line 28 of your HTML
+<Br>2. Application's CSS selectors and properties are not consolidated
+<Br>3. The application's CSS file contains no comments
+<Br>4. The application's HTML file contains no comments
+<Br>5. Repo doesn't have a unique name. An example of a unique name would be: horiseon-accessibility-refactor
+
+## Actions taken to correct feedback and resubmit 
+<Br>1. Added the id in HTML correcting the link target
+<Br>2. Consolidated the CSS selectors and properties where possible 
+<Br>3. Added comments to CSS file
+<Br>4. Added comments to the HTML file 
+<Br>5. Created a new Repo with a more unique name and imported all data from the previous Repo 
+<Br>Note:  Thank you very much for the feedback!  I really helped me to go back and make the nessasary changes for the learning experience.  
